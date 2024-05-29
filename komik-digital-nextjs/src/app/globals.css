@@ -27,9 +27,6 @@ header {
   width: 100vw;
 }
 
-body {
-}
-
 @layer utilities {
   .text-balance {
     text-wrap: balance;

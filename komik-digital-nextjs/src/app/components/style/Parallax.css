@@ -1,0 +1,41 @@
+/* .about__images {
+  display: grid;
+  grid-gap: 1rem;
+}
+
+.about__image {
+  height: 16rem;
+  width: 14rem;
+  background-color: white;
+  transform: scale(0);
+}
+.about__image1,
+.about__image2,
+.about__image3 {
+  grid-row: 1/2;
+}
+.about__image4,
+.about__image5,
+.about__image6 {
+  grid-row: 2/2;
+}
+
+.about__image1 {
+  grid-column: 1/2;
+}
+.about__image2 {
+  grid-column: 2/3;
+}
+.about__image3 {
+  grid-column: 3/4;
+}
+
+.about__image4 {
+  grid-column: 1/2;
+}
+.about__image5 {
+  grid-column: 2/3;
+}
+.about__image6 {
+  grid-column: 3/4;
+} */

@@ -11,9 +11,10 @@ export default function () {
               About Us
             </h4>
             <p className="text-sm leading-6">
-              Website ini didedikasikan untuk pengembangan kreativitas peserta
-              didik, terutama untuk peserta didik di sekolah dasar negeri 6
-              pemali.
+              Website ini adalah hasil dari kolaborasi peserta didik UPT SD
+              NEGERI 6 PEMALI, Mahasiswa kampus mengajar angkatan 7, dan
+              mahasiswa Pendidikan Sistem Dan Teknologi Informasi Universitas
+              Pendidikan Indonesia Kampus Purwakarta
             </p>
           </div>
           <div className="flex-1 m-2.5 min-w-52">
@@ -62,14 +63,15 @@ export default function () {
               Contact Us
             </h4>
             <p>Edis Erianisya Putri</p>
-            <p>Email: info@yourcompany.com</p>
+            <p>Rochman Bambang E S</p>
+            <p>Email: km.10900110@kampusmengajar.belajar.id</p>
             <p>Phone: (+62) 831-5778-1105</p>
             <p>Address: Bangka Belitung, indonesia</p>
           </div>
         </div>
       </div>
       <div className="text-center py-5 px-0 bg-[#233140] mt-5">
-        <p>&copy; 2024 Your Company. All Rights Reserved.</p>
+        <p>&copy; 2024 km7uptdsdn6pemali. All Rights Reserved.</p>
       </div>
     </footer>
   );

@@ -1,10 +1,13 @@
 "use client";
 
+import { useTransform, useScroll, motion } from "framer-motion";
+
 import Image from "next/image";
+import ImagesGallery from "./ImagesGallery";
 
 export default function Section2() {
   return (
-    <>
+    <main>
       <div className="text-4xl lg:text-6xl text-center">ABOUT</div>
       <div className="grid grid-cols-2 min-h-96 max-h-screen">
         <div className="grid grid-rows-2">
@@ -28,6 +31,7 @@ export default function Section2() {
           </div>
         </div>
       </div>
-    </>
+      <ImagesGallery />
+    </main>
   );
 }
